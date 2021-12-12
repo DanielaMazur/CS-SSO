@@ -7,7 +7,7 @@ function App() {
   return (
     <Auth0Provider
       domain="dev-i6qklqu4.eu.auth0.com"
-      clientId="fWg7ucv03vgbIaBMt9gfFL4mIage9TXK"
+      clientId="hi2bSsgmetUzdyKIEZFoa7i1emgNk56w"
       redirectUri={window.location.origin}
     >
       <LoginPage />
